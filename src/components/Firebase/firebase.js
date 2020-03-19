@@ -3,12 +3,12 @@ import 'firebase/auth';
 import 'firebase/database';
 
 const config = {
-    apiKey: "AIzaSyAMWqoumqTFtOuFTllFVNm7VuOJtNu45_I",
-    authDomain: "waynecounty-8ec76.firebaseapp.com",
-    databaseURL: "https://waynecounty-8ec76.firebaseio.com",
-    projectId: "waynecounty-8ec76",
-    storageBucket: "waynecounty-8ec76.appspot.com",
-    messagingSenderId: "531514939034",
+    apiKey: "Your api key here",
+    authDomain: "your domain here",
+    databaseURL: "your database here",
+    projectId: "your project id here",
+    storageBucket: "id here",
+    messagingSenderId: "id here",
 };
 
 class Firebase {
